@@ -2,7 +2,7 @@
 ### <p align="center"> A beginner developer from Brazil <p/>
   
 🔭 Currently an academic studying Computer Science, which is giving me the foundation in development concepts and practices. I am interested in an internship where I can apply my knowledge and aim to grow the company.<br><br>
-🌱 My projects that I have been working on are based on Java for the Back-end, and my Stack on the front end is Java script, Html and CSS. I have intermediate English, which helps me with quick and practical searches.<br><br>📫 How to reach me andremourdev@outlook.com.
+🌱 My projects that I have been working on are based on Java for the Back-end, and my Stack on the front end is Java script, Html and CSS. I have advanced English, which helps me with quick and practical searches.<br><br>📫 How to reach me andremourdev@outlook.com.
 
 
 ### 🌐 Connect with me:
