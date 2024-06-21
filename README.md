@@ -1,9 +1,10 @@
 # <p align="center">Hi, I'm Andre Moura</p>    
 ### <p align="center"> A beginner developer from Brazil <p/>
   
-🔭 Currently an academic studying Computer Science, which is giving me the foundation in development concepts and practices. I am interested in an internship where I can apply my knowledge and aim to grow the company.<br><br>
-🌱 My projects that I have been working on are based on Java for the Back-end, and my Stack on the front end is Java script, Html and CSS. I have advanced English, which helps me with quick and practical searches.<br><br>📫 How to reach me andremourdev@outlook.com.
+🔭 Hello! I'm a 19-year-old Computer Science student passionate about front-end development. I currently work as a front-end developer focusing on React Native.<br><br>
+🌱 My projects cover some technologies, with a strong focus on front-end development using JavaScript (React), HTML and CSS. For backend, I have been working with Java. I am passionate about learning and experimenting with different languages ​​and frameworks. My advanced English skills allow me to navigate efficiently and take advantage of a wealth of resources for quick, practical solutions.<br><br>
 
+📫 How to reach me andremourdev@outlook.com.
 
 ### 🌐 Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-moura-b82267268/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreczw/)
