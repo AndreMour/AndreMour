@@ -1,5 +1,5 @@
 # <p align="center">Hi, I'm Andre Moura</p>    
-### <p align="center"> A beginner developer from Brazil <p/>
+### <p align="center"> a Brazilian developer <p/>
   
 🔭 Hello! I'm a 19-year-old Computer Science student passionate about front-end development. I currently work as a front-end developer focusing on React Native.<br><br>
 🌱 My projects cover some technologies, with a strong focus on front-end development using JavaScript (React), HTML and CSS. For backend, I have been working with Java. I am passionate about learning and experimenting with different languages ​​and frameworks. My advanced English skills allow me to navigate efficiently and take advantage of a wealth of resources for quick, practical solutions.<br><br>
